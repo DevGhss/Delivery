@@ -21,7 +21,7 @@ img{
 header p{
     color: #ffd700;
     font-size: 1.5em;
-    font-family: "Irish Grover", system-ui;
+    font-family: "Ga Maamli", sans-serif;
     margin: 7% 0 0 0;
 }
 .div-paragraph{
@@ -40,12 +40,12 @@ ul a{
     border-radius: 2rem;
 }
 nav{
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: "Ga Maamli", sans-serif;
     padding: 2% 0;}
     
     .txt2cardapio{
         text-align: center;
         font-style: normal;
-        font-family: 'Times New Roman', Times, serif;
+        font-family: "Ga Maamli", sans-serif;
     }
     

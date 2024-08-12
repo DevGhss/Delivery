@@ -1,0 +1,11 @@
+.comida{
+                    display: grid;
+                    grid-template-columns: 1fr 3fr 3fr 3fr 3fr 1fr;
+}
+.nomec{
+    display: grid;
+    grid-template-columns: 1fr 3fr 3fr 3fr 3fr 1fr;
+    font-family: "Ga Maamli", sans-serif;
+    font-size: x-large;
+    text-align: center;
+}
