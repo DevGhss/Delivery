@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(119, 114, 114);
+    font-family: "Ga Maamli", sans-serif;
+}
+
+
+#formulario {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding-left: 60px;
+    padding-right: 60px;
+    margin-top: 150px;
+    border-radius: 30px;
+    background-color:rgb(58, 56, 56);
+}
+
+
+h3 {
+    color: #000000;
+    margin-bottom: 40px;
+    margin-top: 25px;
+}
+
+input {
+    margin-bottom: 15px;
+    border-radius: 15px;
+    height: 30px;
+    border: none;
+    font-size: 16px;
+    outline: none;
+    width: 250px;
+}
+
+#enviar {
+    margin-bottom: 70px;
+    border-radius: 24px;
+    width: 200px;
+    height: 30px;
+    margin-top: 20px;
+    background-color: #000000;
+    font-weight: bold;
+    border: none;
+    color: #ffffff;
+    font-family: "Ga Maamli", sans-serif;
+}
+
+
+
+p {
+    margin-bottom: 8px;
+    font-weight: bold;
+    color: #ffffff;
+}
